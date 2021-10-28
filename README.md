@@ -42,7 +42,7 @@ Story pane #2
 	
 	* While customer ride counts are much lower than subscriber ride counts, they consume much more bike time than subscriber rides on a per ride basis.  
 	
-	* Based on story pane #1, we have a large segment of customers that we know skew older, who are renting our bicycles as one-offs that generating a lot of bike hours
+	* Based on story pane #1, we have a large segment of customers that we know skew older, who are renting our bicycles as one-offs that are generating a lot of bike hours
 	
 	* We would do well to find out more about this customer segment as they are likely a revenue generator and a segment that we would like to grow more.  
 
